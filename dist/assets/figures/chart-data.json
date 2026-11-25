@@ -1,0 +1,83 @@
+{
+  "16": {
+    "labels": [
+      "Power",
+      "Highly active",
+      "Very active",
+      "Active",
+      "Casual",
+      "Infrequent",
+      "Very infrequent",
+      "Anonymous"
+    ],
+    "values": [
+      67.8025078369906,
+      95.87251420454545,
+      76.16794871794872,
+      68.95315315315315,
+      95.81494661921708,
+      93.69565217391305,
+      51.473684210526315,
+      24.75494071146245
+    ],
+    "unit": "Bytes added per edit"
+  },
+  "19": {
+    "labels": [
+      "Mandruss",
+      "Cwobeel",
+      "ChrisGualtieri",
+      "MrX",
+      "Bob K31416",
+      "Gaijin42",
+      "Michael-Ridgway",
+      "Dyrnych",
+      "Isaidnoway",
+      "Sy9045",
+      "Others"
+    ],
+    "values": [
+      21.16,
+      15.25,
+      4.41,
+      3.87,
+      2.7,
+      2.32,
+      1.98,
+      2.06,
+      2.4,
+      1.8,
+      42.05
+    ],
+    "unit": "Share of edits (%)"
+  },
+  "20": {
+    "labels": [
+      "Mandruss",
+      "Cwobeel",
+      "ChrisGualtieri",
+      "MrX",
+      "Bob K31416",
+      "Gaijin42",
+      "Michael-Ridgway",
+      "Dyrnych",
+      "Isaidnoway",
+      "Sy9045",
+      "Others"
+    ],
+    "values": [
+      18.8,
+      25.92,
+      3.71,
+      4.36,
+      0.99,
+      3.19,
+      3.56,
+      1.53,
+      4.05,
+      1.62,
+      32.28
+    ],
+    "unit": "Share of content added (%)"
+  }
+}

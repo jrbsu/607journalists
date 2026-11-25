@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>607 Journalists</title>
+  <rect width="64" height="64" rx="12" fill="#0066b3"/>
+  <text x="32" y="40" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="31" letter-spacing="-1.5" fill="#fff">607</text>
+  <path d="M16 49h32" stroke="#ff2d21" stroke-width="4" stroke-linecap="round"/>
+</svg>
